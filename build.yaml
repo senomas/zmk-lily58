@@ -18,9 +18,9 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nRF52840-nicenano
     shield: lily58_left
-  - board: nrfmicro_13
+  - board: nRF52840-nicenano
     shield: lily58_right
-  - board: nrfmicro_13
+  - board: nRF52840-nicenano
     shield: settings_reset
