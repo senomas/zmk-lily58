@@ -13,6 +13,14 @@
     continue-list = <UNDERSCORE MINUS BACKSPACE DELETE>;
 };
 
+&sl {
+    release-after-ms = <750>;
+};
+
+&sk {
+    release-after-ms = <750>;
+}
+
 / {
     keymap {
         compatible = "zmk,keymap";
