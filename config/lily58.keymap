@@ -19,7 +19,7 @@
 
 &sk {
     release-after-ms = <750>;
-}
+};
 
 / {
     keymap {
